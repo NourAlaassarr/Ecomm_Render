@@ -1,0 +1,10 @@
+import CategoryRouter from './Category/Category.Routes.js'
+import SubCategoryRouter from './SubCategory/SubCategory.routes.js'
+import BrandRouter from './Brand/Brand.routes.js'
+import ProductRoutes from './Product/product.routes.js'
+import CouponRoutes from './Coupon/Coupon.routes.js'
+import UserRoutes from './user/user.routes.js'
+import AuthRoutes from './Auth/auth.routes.js'
+import CartRoutes from './Cart/cart.routes.js'
+import OrderRoutes from './Order/Order.routes.js'
+export{CategoryRouter,SubCategoryRouter,BrandRouter,ProductRoutes,CouponRoutes,UserRoutes,AuthRoutes,CartRoutes,OrderRoutes}
